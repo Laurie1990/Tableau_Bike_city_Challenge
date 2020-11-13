@@ -52,7 +52,9 @@ Set out to explore three main questions
 
 ![Citi-Bikes](Images/age_gender.PNG)
 
-* Bike users also tend to be aged in their mid-twenties to mid-thirties
+* Bike users also tend to be aged in their mid-twenties to mid-thirties, and are predominantly subscribers, rather than casual customers
+
+![Citi-Bikes](Images/user_gender_age.PNG)
 
 2. How does usage change by user type (casual customers vs subscribers) and by time of day and weekday?
 
