@@ -58,24 +58,24 @@ Set out to explore three main questions
 
 * Usage builds throughout the week and spikes on Saturdays
 
-![Citi-Bikes](Images/user type and weekday.PNG)
+![Citi-Bikes](Images/user_type_and_weekday.PNG)
 
 * During the working week, we can observe a small morning peak-hour spike in usage, and a large evening spike.
 
-![Citi-Bikes](Images/peak hour.PNG)
+![Citi-Bikes](Images/peak_hour.PNG)
 
 * Both on weekdays and weekend customers (casual users) tend to take longer trips compared to subscribers.
 The generally lower proportion of customers during weekdays and commuting times, as well as the longer trip duration suggests 
 many subscribers are using Bikeshare for regular commuting and transportation, whilst customers may be using bikes for leisure activities.
 
-![Citi-Bikes](Images/trip duration.PNG)
+![Citi-Bikes](Images/trip_duration.PNG)
 
 3. How has usage changed over the period observed?
 
 * Usage has trended downwards over the period observed, falling sharply on October 12, 2020. This was likely due to severe bad weather caused by the remnants of Hurrican Delta. 
 To get a clearer picture of a larger trends we should do a yeay-on-year comparison to account for seasonality. A further complicating factor is trying to assess the effect of Covid on bikeshare use. Analysing both seasonality through year on year comparisons, combined with covid data, would be an excellent extension of this assignment.
 
-![Citi-Bikes](Images/month trend.PNG)
+![Citi-Bikes](Images/month_trend.PNG)
 
 
 
