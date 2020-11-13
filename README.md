@@ -43,24 +43,39 @@ Your final submission should include:
 ## Insights
 Set out to explore three main questions
 1. What are the characteristics of the Citi Bike Program users? Which groups make the most trips?
-Bike users are overwhelmingly male
 
-We can observe this severe gender imbalance in every age bracket
+* Bike users are overwhelmingly male
 
-Bike users tend to be aged in their mid-twenties to mid-thirties
+![Citi-Bikes](Images/gender_breakdown.PNG)
+
+* We can observe this severe gender imbalance in every age bracket
+
+![Citi-Bikes](Images/age_gender.PNG)
+
+* Bike users also tend to be aged in their mid-twenties to mid-thirties
 
 2. How does usage change by user type (casual customers vs subscribers) and by time of day and weekday?
-Usage builds throughout the week and spikes on Saturdays
 
-During the working week, we can observe a small morning peak-hour spike in usage, and a large evening spike.
+* Usage builds throughout the week and spikes on Saturdays
 
-Both on weekdays and weekend customers (casual users) tend to take longer trips compared to subscribers.
+![Citi-Bikes](Images/user type and weekday.PNG)
+
+* During the working week, we can observe a small morning peak-hour spike in usage, and a large evening spike.
+
+![Citi-Bikes](Images/peak hour.PNG)
+
+* Both on weekdays and weekend customers (casual users) tend to take longer trips compared to subscribers.
 The generally lower proportion of customers during weekdays and commuting times, as well as the longer trip duration suggests 
 many subscribers are using Bikeshare for regular commuting and transportation, whilst customers may be using bikes for leisure activities.
 
+![Citi-Bikes](Images/trip duration.PNG)
+
 3. How has usage changed over the period observed?
-Usage has trended downwards over the period observed, falling sharply on October 12, 2020. This was likely due to severe bad weather caused by the remnants of Hurrican Delta. 
-To get a clearer picture of a larger trends we should do a yeay-on-year comparison to account for seasonality. A further complicating factor is trying to assess the effect of Covid on bikeshare use.
+
+* Usage has trended downwards over the period observed, falling sharply on October 12, 2020. This was likely due to severe bad weather caused by the remnants of Hurrican Delta. 
+To get a clearer picture of a larger trends we should do a yeay-on-year comparison to account for seasonality. A further complicating factor is trying to assess the effect of Covid on bikeshare use. Analysing both seasonality through year on year comparisons, combined with covid data, would be an excellent extension of this assignment.
+
+![Citi-Bikes](Images/month trend.PNG)
 
 
 
