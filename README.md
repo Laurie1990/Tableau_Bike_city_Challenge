@@ -39,6 +39,7 @@ Your final submission should include:
 3. Exported cleaned and reformatted data as a new csv files
 4. Imported reformatted csv files and joined on trip ID, creating measures, groups, calculated fields and aliases
 5. Created visualisations and story in Tableau
+6. Publish on [Tableau Public](https://public.tableau.com/profile/laurie4922#!/vizhome/NJ_tableau_workbook1_3/NJ_Bike_Use)
 
 ## Insights
 Set out to explore three main questions
